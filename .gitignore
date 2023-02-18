@@ -1,0 +1,10 @@
+# Mac stuff
+.DS_store
+
+# Node stuff
+node_modules
+package.json
+package-lock.json
+
+# SASS stuff
+.sass-cache
