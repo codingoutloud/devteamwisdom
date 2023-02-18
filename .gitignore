@@ -1,6 +1,10 @@
 # Mac stuff
 .DS_store
 
+# Hugo stuff
+.*lock
+_gen
+
 # Node stuff
 node_modules
 package.json
